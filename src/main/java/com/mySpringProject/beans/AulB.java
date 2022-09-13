@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class AulB {
-	private String sender;
+	private String sender ;
 	private String senderName;
 	private String recipient;
 	private String recipientName;
